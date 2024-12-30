@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.github.argon4w.tmwya.mixins",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "mixins.everyxhotpot.refmap.json",
+  "client": [
+    "PacketDecoderMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
